@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "ImageSize Compress",
+    "tagline": "Reduce photo file size with minimal quality loss"
+  },
+  "onboarding": {
+    "title": "ImageSize Compress",
+    "subtitle": "Reduce photo file size with minimal quality loss",
+    "getStarted": "Get Started",
+    "freeText": "Compress smarter — free plan available",
+    "features": [
+      "One-tap compression",
+      "Batch processing", 
+      "Multiple formats (JPEG, PNG, WebP)",
+      "Compare before & after"
+    ]
+  },
+  "main": {
+    "emptyTitle": "No images yet",
+    "emptySubtitle": "Tap + to add photos",
+    "selectedImages": "Selected Images",
+    "quickPresets": "Quick Presets",
+    "customCompress": "Custom Compress",
+    "customSubtitle": "Quality slider, target size, dimensions",
+    "addPhotos": "+ Add Photos",
+    "compressNow": "Compress Now",
+    "selectFirst": "Select Images First"
+  },
+  "compress": {
+    "title": "Custom Compress",
+    "quality": "Quality",
+    "format": "Format",
+    "dimensions": "Dimensions",
+    "maxWidth": "Max Width",
+    "maxHeight": "Max Height",
+    "preserveAspect": "Preserve aspect ratio",
+    "targetSize": "Target Size (Optional)",
+    "noLimit": "No limit",
+    "estimatedSize": "Estimated Size",
+    "imagesSelected": "images selected",
+    "startCompression": "Start Compression",
+    "compressing": "Compressing...",
+    "smaller": "Smaller",
+    "betterQuality": "Better Quality"
+  },
+  "results": {
+    "title": "Results",
+    "shareAll": "Share All",
+    "before": "Before",
+    "after": "After",
+    "original": "Original", 
+    "compressed": "Compressed",
+    "compare": "Compare",
+    "hideCompare": "Hide Compare",
+    "share": "Share",
+    "save": "Save",
+    "copy": "Copy",
+    "compressMore": "Compress More"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "darkMode": "Dark Mode",
+    "storage": "Storage",
+    "clearCache": "Clear Cache",
+    "clearCacheSubtitle": "Remove temporary files",
+    "general": "General",
+    "resetSettings": "Reset Settings",
+    "resetSubtitle": "Restore default settings",
+    "about": "About",
+    "aboutSubtitle": "App version and info",
+    "compressionPresets": "Compression Presets",
+    "defaultQuality": "Default Quality",
+    "maxDimensions": "Max Dimensions",
+    "defaultFormat": "Default Format",
+    "privacy": "Privacy",
+    "localProcessing": "Local Processing",
+    "localProcessingText": "All image compression happens on your device. No images are uploaded to external servers.",
+    "dataCollection": "Data Collection",
+    "dataCollectionText": "We only collect anonymous usage statistics to improve the app. No personal data is collected."
+  },
+  "presets": {
+    "email": {
+      "name": "Email",
+      "subtitle": "≤200KB"
+    },
+    "instagram": {
+      "name": "Instagram", 
+      "subtitle": "≤1MB"
+    },
+    "archive": {
+      "name": "Archive",
+      "subtitle": "Lossless"
+    }
+  },
+  "messages": {
+    "success": "Done — saved {size}",
+    "compressionFailed": "Compression failed — try lowering quality",
+    "noImages": "No Images",
+    "selectImages": "Please select images to compress",
+    "clearCacheConfirm": "This will remove all temporary compressed images. Continue?",
+    "resetConfirm": "This will reset all settings to default. Continue?",
+    "cacheCleared": "Cache cleared",
+    "settingsReset": "Settings reset to default",
+    "shareError": "Could not share images",
+    "saveError": "Could not save image",
+    "imageSaved": "Image saved to gallery",
+    "savingsText": "Saved {percent}% — looks great!"
+  },
+  "buttons": {
+    "cancel": "Cancel",
+    "clear": "Clear",
+    "reset": "Reset",
+    "ok": "OK",
+    "back": "← Back",
+    "continue": "Continue"
+  }
+}
